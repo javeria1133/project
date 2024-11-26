@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor specific
+.vscode/
+.idea/
+*.swp
+
+# Build files
+dist/
+build/
+
+# Cache files
+*.cache
+*.tmp
+
+# Coverage reports
+coverage/
+
+# Dependency directories
+bower_components/
